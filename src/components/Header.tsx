@@ -25,10 +25,16 @@ const Header = () => {
               Каталог
             </a>
             <a
-              href="#"
+              href="/promotions"
               className="text-gray-700 hover:text-gaming-blue transition-colors"
             >
               Акции
+            </a>
+            <a
+              href="/about"
+              className="text-gray-700 hover:text-gaming-blue transition-colors"
+            >
+              О нас
             </a>
             <a
               href="#"
